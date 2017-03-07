@@ -1,2 +1,4 @@
 # todo-list
-A simple an obligatory To-Do List.
+A simple and obligatory To-Do List.
+
+View it at http://s.codepen.io/AdrianRC/debug/XMjoEJ/yYryLDLozXwM
